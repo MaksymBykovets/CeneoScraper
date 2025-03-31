@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\en-A013-27\Desktop\CeneoScraper\.venv
+set VIRTUAL_ENV=D:\CeneoScraper-1\.venv
 
 if not defined PROMPT set PROMPT=$P$G
 
