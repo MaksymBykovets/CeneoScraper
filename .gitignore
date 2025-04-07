@@ -1,2 +1,8 @@
 .venv/
 venv/
+
+
+opinions/ 
+cookie.json
+.pypirc
+.ruff_cache/
